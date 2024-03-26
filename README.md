@@ -1,5 +1,5 @@
-<h1 align="center">OI! 👋, Eu sou o Lucas</h1>
-<h3 align="center">Um Analista de dados em formação apaixonado por dados em grande escala, números e métricas 🤓🔢🎲</h3>
+<h1 align="center">Oi! 👋, Eu sou o Lucas</h1>
+<h3 align="center">Analista de dados em formação.</h3>
 
 - 🔭 Atualmente estou **desenvolvendo Hard Skills**
 
